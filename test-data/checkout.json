@@ -1,0 +1,17 @@
+{
+  "product": {
+    "name": "Sauce Labs Backpack",
+    "price": "$29.99"
+  },
+  "customer": {
+    "firstName": "Test",
+    "lastName": "Customer",
+    "postalCode": "12345"
+  },
+  "order": {
+    "subtotal": "$29.99",
+    "tax": "$2.40",
+    "total": "$32.39",
+    "confirmation": "Thank you for your order!"
+  }
+}
